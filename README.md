@@ -120,7 +120,7 @@ else:
 
 ```
 ## Sample Input and Output
-[Github.logo]!(EX 08.png)
+[Github.logo]!(EX 08.PNG)
 
 
 
